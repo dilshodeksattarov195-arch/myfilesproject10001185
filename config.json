@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsecrypt",
+        "uuid": 642270,
+        "checksum": "b0ofgl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
